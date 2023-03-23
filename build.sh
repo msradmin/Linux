@@ -4,3 +4,6 @@ echo | Download concluído. |
 echo - Agora você precisa de um Pendrive para completar a instalação.
 echo - dê um (./build1.sh) para terminar a instalação.
 echo ( Código básico feito por Rafael Rodrigues ( aka MSR ) )
+echo | Launching Terminal settings... 20 seconds to finish.|
+sleep 20
+echo Done!
